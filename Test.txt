@@ -1,2 +1,3 @@
 ﻿Проверка git stash
 Hi there Maks!!
+Hello guys, it's Vlad!
