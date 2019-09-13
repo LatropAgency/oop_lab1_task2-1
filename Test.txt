@@ -1,3 +1,4 @@
 ﻿Проверка git stash
 Hi there Maks!!
 Hello guys, it's Vlad!
+Hello every body, Vova is here!
